@@ -60,9 +60,6 @@ The Stock Market Tracker is a web application that allows users to monitor stock
     - Enter another stock symbol in the comparison section and click "Compare".
     - View the price charts of both stocks side by side.
 
-## Screenshots
-
-
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
