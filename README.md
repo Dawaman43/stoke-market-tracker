@@ -1,7 +1,5 @@
 # Stock Market Tracker
 
-
-
 ## Overview
 The Stock Market Tracker is a web application that allows users to monitor stock prices, view technical indicators, and access financial reports. It includes features like live stock suggestions, day/night mode, email subscription, and stock comparison.
 
@@ -77,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [GSAP](https://greensock.com/gsap/)
 
 ## Contact
-- **GitHub**: [yourusername](https://github.com/dawaman43)
+- **GitHub**: [Dawaman43](https://github.com/dawaman43)
 - **Email**: dawitworkujima@gmail.com
 
 ---
